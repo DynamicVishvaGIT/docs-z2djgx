@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-7021eo.altogel23nad.cfd/sitemap.xml
